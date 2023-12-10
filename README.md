@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Son H. Nguyen and I'm a an Embedded Software Engineer.</h2>
+<h2 align="left">Hi 👋! I am Son H. Nguyen - an Embedded Software Engineer.</h2>
 
 ###
 
