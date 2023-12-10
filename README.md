@@ -5,7 +5,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonh-nguyen&theme=duskfox" alt="sonh-nguyen" height="200px" width="400px"/></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonh-nguyen&theme=duskfox" alt="sonh-nguyen" height="200px" width="400px"/></p>
 
 ## 🛠️ My Skills
 ### 👉 Programming languages
@@ -16,24 +16,17 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
-  &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
-   &emsp;
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <!-- <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a> -->
-  &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  &emsp;
   &emsp;
   <a href="">
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-%23777BB4.svg?logo=php&logoColor=white"/>
@@ -75,8 +68,6 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/sonh-nguyen"><img alt="Son H. Nguyen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sonh-nguyen&custom_title=Son H. Nguyen's%20Contribution%20Graph&theme=github" /></a>
+	<a href="https://github.com/sonh-nguyen"><img alt="Son H. Nguyen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sonh-nguyen&custom_title=Son H. Nguyen's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
 <br/>
